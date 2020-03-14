@@ -4,8 +4,8 @@ The following content will be updated occasionally for artificial intelligence, 
 
 ## Table of contents
 - Reports
-    - [Artificial Intelligence Trends To Watch In 2020](https://www.cbinsights.com/research/report/ai-trends-2020/), [download it](https://drive.google.com/file/d/1h6iXpFvZfAu-q8d5hguYv29YriYuCOzN/view?usp=sharing)
-    - [Artificial Intelligence Trends To Watch In 2019](https://www.cbinsights.com/research/report/ai-trends-2019/), [download it](https://drive.google.com/open?id=1PBojlw3iwaUtuyIfQo4yYcKGPgdGnLc5]
+    - [Artificial Intelligence Trends To Watch In 2020](https://www.cbinsights.com/research/report/ai-trends-2020/), [Download Link](https://drive.google.com/file/d/1h6iXpFvZfAu-q8d5hguYv29YriYuCOzN/view?usp=sharing)
+    - [Artificial Intelligence Trends To Watch In 2019](https://www.cbinsights.com/research/report/ai-trends-2019/), [Download Link](https://drive.google.com/open?id=1PBojlw3iwaUtuyIfQo4yYcKGPgdGnLc5)
 
 - [Advanced Material](#advanced-material)
    - [Courses](#courses)
