@@ -53,16 +53,14 @@ Listing of useful (mostly) public learning resources for artificial intelligence
 ### Courses
 ### Journals
 
-##Advanced Material ![Advanced](https://img.shields.io/badge/subject-advanced-blue.svg)
+## Advanced Material ![advanced](https://img.shields.io/badge/subject-advanced-blue.svg)
 ### Lectures
 ### Seminar Series
 ### Tutorials
 ### Schools
 ### Courses
-
 - [Advanced Introduction to Machine Learning](http://www.cs.cmu.edu/~bapoczos/Classes/ML10715_2015Fall/index.html), by Barnabas Poczos and Alex Smola, Carnegie Mellon University, Fall 2015
-   
-     -Videos: https://www.youtube.com/playlist?list=PL4DwY1suLMkcu-wytRDbvBNmx57CdQ2pJ&jct=q4qVgISGxJql7TlE6eSLKa8Wwci8SA
+    -Videos: https://www.youtube.com/playlist?list=PL4DwY1suLMkcu-wytRDbvBNmx57CdQ2pJ&jct=q4qVgISGxJql7TlE6eSLKa8Wwci8SA
 
 
 ### Journals
