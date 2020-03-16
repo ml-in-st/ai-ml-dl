@@ -4,8 +4,11 @@ The following content will be updated occasionally for artificial intelligence, 
 
 ## Table of contents
 - Reports
-    - [Artificial Intelligence Trends To Watch In 2020](https://www.cbinsights.com/research/report/ai-trends-2020/), [Download Link](https://drive.google.com/file/d/1h6iXpFvZfAu-q8d5hguYv29YriYuCOzN/view?usp=sharing)
-    - [Artificial Intelligence Trends To Watch In 2019](https://www.cbinsights.com/research/report/ai-trends-2019/), [Download Link](https://drive.google.com/open?id=1PBojlw3iwaUtuyIfQo4yYcKGPgdGnLc5)
+    - [Artificial Intelligence Trends To Watch In 2020](https://www.cbinsights.com/research/report/ai-trends-2020/), CBINSIGHTS, 2020,[Download Link](https://drive.google.com/file/d/1h6iXpFvZfAu-q8d5hguYv29YriYuCOzN/view?usp=sharing)
+    - [Artificial Intelligence Trends To Watch In 2019](https://www.cbinsights.com/research/report/ai-trends-2019/), CBINSIGHTS, 2019, [Download Link](https://drive.google.com/open?id=1PBojlw3iwaUtuyIfQo4yYcKGPgdGnLc5)
+    - [Artificial Intelligence and Life in 2030](https://ai100.stanford.edu), Stanford Unversity, 2016, [Download Link](https://drive.google.com/open?id=1Xmev_U69tgLHA9z2hGimN5SZijFCfVzu)
+    - [Ai is the Future of Growth](https://www.accenture.com/_acnmedia/PDF-33/Accenture-Why-AI-is-the-Future-of-Growth--Country-Spotlights.pdfla=fr-FR), Accenture, [Download Link](https://drive.google.com/open?id=1bmqDv56WfIR43Xhaerp6IuzESJAkosxM)
+
 
 - [Advanced Material](#advanced-material)
    - [Courses](#courses)
